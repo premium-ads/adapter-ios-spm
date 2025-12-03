@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "PremiumAdsAdapter",
             url: "https://raw.githubusercontent.com/premium-ads/adapter-ios-spm/refs/heads/main/PremiumAdsAdapter-2.2.6.xcframework.zip",
-            checksum: "89ca9d68476a6da87ebc97ec08b12aef1f29281068ee07a302a76bf17bec64fb"
+            checksum: "f6d9e30f25cef752dfd0e2243dcec4c74aa679fed7e9bc75efb395d1e31b1116"
         )
     ]
 )
